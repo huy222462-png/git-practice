@@ -1,2 +1,3 @@
+
 # Git Practice
-Giời thiệu: Tôi là Nguyễn Võ Khánh Huy, MSSV 222462.
+Giới thiệu: Tôi là Khánh Huy - Đây là phiên bản sau khi xử lý conflict
